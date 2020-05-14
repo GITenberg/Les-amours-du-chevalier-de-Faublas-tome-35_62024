@@ -1,5 +1,5 @@
 _repo: Les-amours-du-chevalier-de-Faublas-tome-35_62024
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Avril, Paul
@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Paul_Avril
     - https://en.wikipedia.org/wiki/%C3%89douard-Henri_Avril
+covers:
+- cover_type: archival
+  image_path: 62024-h/images/cover.jpg
 creator:
   author:
     agent_name: Louvet de Couvray, Jean-Baptiste
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvrai
     - https://fr.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62024#Les-amours-du-chevalier-de-Faublas-tome-35
 gutenberg_bookshelf: FR Nouveautés
 gutenberg_issued: '2020-05-04'
 gutenberg_type: Text
